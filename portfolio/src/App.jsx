@@ -48,8 +48,19 @@ function Icon({ name }) {
     spark: 'M12 2l2.2 6.6L21 11l-6.8 2.4L12 20l-2.2-6.6L3 11l6.8-2.4L12 2z',
     download: 'M12 3v12m0 0l-4-4m4 4l4-4M5 21h14',
   }
+  const isStroke = ['arrow', 'external', 'download'].includes(name);
+
   return (
-    <svg viewBox="0 0 24 24" className="ic" aria-hidden="true">
+    <svg 
+      viewBox="0 0 24 24" 
+      className="ic" 
+      aria-hidden="true"
+      fill={isStroke ? "none" : "currentColor"}
+      stroke={isStroke ? "currentColor" : "none"}
+      strokeWidth={isStroke ? "2" : undefined}
+      strokeLinecap={isStroke ? "round" : undefined}
+      strokeLinejoin={isStroke ? "round" : undefined}
+    >
       <path d={p[name]} />
     </svg>
   )
@@ -176,7 +187,7 @@ function Nav({ active }) {
           variants={fadeUp}
           whileHover={{ y: -2 }}
         >
-          Résumé
+          Resume
         </motion.a>
       </motion.nav>
       <button
@@ -245,7 +256,7 @@ function Hero() {
             <Icon name="mail" /> Get in Touch
           </motion.a>
           <motion.a className="btn btn--ghost" href={profile.links.resume} target="_blank" rel="noreferrer" download variants={scaleIn} whileHover={{ scale: 1.05, y: -3 }} whileTap={{ scale: 0.97 }}>
-            <Icon name="download" /> Résumé
+            <Icon name="download" /> Resume
           </motion.a>
         </motion.div>
 
