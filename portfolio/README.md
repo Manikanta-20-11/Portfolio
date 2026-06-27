@@ -67,3 +67,10 @@ npm run lint     # run eslint
 2. Push `dist/` to your `<username>.github.io` repo, **or** use the
    `gh-pages` action. If hosting under a sub-path, set `base` in
    `vite.config.js`.
+
+## Author
+
+**Buddavarapu Taraka Venkata Manikanta (B.T.V. Manikanta)**
+- **GitHub:** [@Manikanta-20-11](https://github.com/Manikanta-20-11)
+- **LinkedIn:** [B.T.V. Manikanta](https://www.linkedin.com/in/buddavarapu-taraka-venkata-manikanta-b77458325/)
+- **Email:** manikanta_buddavarapu@srmap.edu.in
