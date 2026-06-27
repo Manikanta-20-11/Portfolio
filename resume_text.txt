@@ -1,0 +1,50 @@
+﻿--- Page 1 ---
+B.T.V. MANIKANTA
+/envelΓîópeEmail:manikanta_buddavarapu@srmap.edu.inΓÖéphonePhone:+91-8317664999/glΓîóbePortfolio:manikanta-20-11.github.io
+/linkedinLinkedIn:linkedin.com/in/manikanta_buddavarapu/githubGitHub:github.com/Manikanta-20-11ΓÖé┬╢ap-┬╢arker-altLocation:Vijayawada, AP, India
+EDUCATION
+SRM University-AP B.Tech. Computer Science and Engineering
+Amaravati, India Aug 2024 ΓÇô Present
+ΓÇóGPA:9.63 / 10(Till 4th Semester)|DeanΓÇÖs List Awardee (April 2026)
+ΓÇóCoursework:Data Structures & Algorithms, DBMS, Operating Systems, OOP, Computer Networks
+EXPERIENCE
+APSCHE SMARTBRIDGE Google Cloud Generative AI Intern
+Remote 2026 ΓÇô Present
+ΓÇóDevelopedandtestedadvancedpromptengineeringstrategies,includingzero-shotandfew-shotprompting,tocontroloutputformatting,accuracy,
+and consistency across tasks.
+ΓÇóImplemented Retrieval-Augmented Generation (RAG) workflows utilizing dense vectors and embeddings to ground Large Language Model
+(LLM) responses in specific data sources.
+ΓÇóDesigned Responsible AI evaluation criteria to enforce safety controls, reduce bias, and structure hands-on prompts for extracting defined data
+formats like JSON.
+PROJECTS
+Eco-Vivah AI [GitHub]
+ΓÇóAI-powered sustainable Indian wedding planner with Random Forest food-quantity prediction (scikit-learn), PuLP vendor optimization, and
+Gemini API recommendations.
+ΓÇóTech: Python, FastAPI, scikit-learn, PuLP, Gemini API, React 18, Tailwind CSS, SQLite
+Darshan Ease [GitHub]
+ΓÇóDigitaltemplemanagementsystemforpre-bookingdarshanslots,cuttingon-sitewaittimes;featuresJWTauthandreal-timeadmincrowd-control
+dashboard.
+ΓÇóTech: React, Node.js, Express.js, MongoDB, JWT
+URL Shortener [GitHub]
+ΓÇóDevelopedafull-stackURLshortenerusingNode.js,Express.js,andMongoDBAtlastomanagelinkgeneration,redirection,andclicktracking.
+ΓÇóImplemented REST API endpoints for URL management and integratednanoidfor collision-resistant unique identifier generation.
+ΓÇóEngineered backend logic for duplicate URL detection and deployed the application via Render with secure environment variable configuration.
+ΓÇóTech: Node.js, Express.js, MongoDB, JavaScript, HTML, CSS
+JoinIn [GitHub]
+ΓÇóJust-in-time activity partner app - students broadcast temporary Beacons for impromptu plans; localized discovery lets nearby peers join in one
+tap.
+ΓÇóTech: React, Node.js, Express.js, MongoDB
+Hospital Management System [GitHub]
+ΓÇóNormalizedrelationalDBcoveringpatients,doctors,billing,appointments,andemergencycontactswithfullERdiagramsandrole-basedaccess
+patterns.
+ΓÇóTech: SQL, MySQL (DBMS course project)
+ACHIEVEMENTS & HACKATHONS
+ΓÇóDeanΓÇÖs List Certificate:Awarded for outstanding academic performance (SGPA 10.0 in 3rd Semester), SRM University-AP (April 2026).
+ΓÇóHack MSC 2.0(Nov 2025)|Code For Connection(Feb 2026)|AQVH(Aug 2025) ΓÇô hackathon participant across three events.
+SKILLS
+Languages:C, C++, Python, JavaScript, HTML, CSS, SQL
+Frontend:React 18, Vite, Tailwind CSS, Recharts
+Backend & APIs:Node.js, Express.js, FastAPI, REST APIs, JWT
+Databases:MongoDB, Firebase (Firestore/Realtime DB), SQLite, MySQL
+ML / Data:scikit-learn (Random Forest), PuLP, LLMs, RAG, Prompt Engineering
+Tools:Git, GitHub, Vertex AI, Google Gemini API, Firebase Auth

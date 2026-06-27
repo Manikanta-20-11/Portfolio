@@ -1,22 +1,22 @@
-# B.T.V. Manikanta — Developer Portfolio
+# B.T.V. Manikanta - Developer Portfolio
 
 A modern, heavily-animated single-page portfolio built with **React 19 + Vite**,
-**Framer Motion**, and **GSAP ScrollTrigger** — hand-crafted CSS and a canvas, no
+**Framer Motion**, and **GSAP ScrollTrigger** - hand-crafted CSS and a canvas, no
 UI kit or Tailwind.
 
 🔗 **Live (GitHub Pages):** https://manikanta-20-11.github.io
 
 ## Highlights
 
-- 🌌 **Animated constellation background** — a `<canvas>` particle field that
+- 🌌 **Animated constellation background** - a `<canvas>` particle field that
   reacts to the cursor (`src/Starfield.jsx`).
-- ✍️ **Per-character / per-word text reveals** — every heading and paragraph
+- ✍️ **Per-character / per-word text reveals** - every heading and paragraph
   animates in unit-by-unit via Framer Motion (`AnimatedText`).
 - ⌨️ **Typewriter hero** cycling through roles, with blinking caret.
 - 🃏 **3D tilt project cards** that rotate toward the cursor (spring physics) with
   a glow that follows the pointer.
 - 🎯 **Filterable projects** with shared-layout animations (`AnimatePresence` +
-  `layoutId`) — the active pill and cards animate between states.
+  `layoutId`) - the active pill and cards animate between states.
 - 🪂 **GSAP ScrollTrigger** parallax on the background glows and directional
   slide-ins for the education card + achievement timeline.
 - 🔢 **Count-up stats** and staggered reveals throughout.
@@ -49,7 +49,7 @@ src/
 ## Editing content
 
 All text, projects, skills and links live in **`src/data.js`**. Update that one
-file to keep the portfolio current — no need to touch markup.
+file to keep the portfolio current - no need to touch markup.
 
 ## Commands
 
